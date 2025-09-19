@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinniped-9bb7d9
 - 👀 I’m interested in: Game Engine Developement, Website Developement & Technical Art
-- 🌱 I’m currently learning: Linear Algebra & Unreal Engine
+- 🌱 I’m currently learning: Godot & Unreal Engine
 - 💞️ I’m looking to collaborate on: Shader Programming
 - 📫 How to reach me: nnation68@gmaail.com
 - 😄 Pronouns: he/him
